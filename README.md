@@ -27,6 +27,7 @@ Colección curada de recursos y proyectos de **Inteligencia Artificial**: modelo
 ## 🛠️ Herramientas prácticas
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) → Agente autónomo para tareas complejas.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) → Ejemplo de agente IA minimalista.
+- [LiveFaceSwap](https://livefaceswap.ai) → Cambio de rostro en vídeo en directo, con vista previa web y cámara virtual de escritorio; procesamiento en la nube por créditos.
 - [OpenAI Whisper](https://github.com/openai/whisper) → Reconocimiento de voz con IA.
 
 ---
