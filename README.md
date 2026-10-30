@@ -46,3 +46,4 @@ Colección curada de recursos y proyectos de **Inteligencia Artificial**: modelo
 ---
 
 ⭐ **Tip:** Dale “Star” si te sirve esta lista y compártela con tu comunidad.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
